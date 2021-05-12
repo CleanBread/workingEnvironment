@@ -31,7 +31,7 @@
     "gulp-uglify-es": "^1.0.4",
     "gulp-watch": "^5.0.1",
     "input.numbered": "^1.0.6",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "webpack-stream": "^5.2.1"
   },
   "dependencies": {
